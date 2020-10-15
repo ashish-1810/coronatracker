@@ -1,0 +1,56 @@
+.container-1 {
+    margin: 10px;
+    width: 300px;
+}
+
+.navbar-brand {
+    padding: 5px;
+    border: 1px solid white;
+}
+
+/* .nav-item {
+    padding: 5px;
+    border: 1px solid white;
+} */
+
+.navbar-nav li {
+    padding: 5px;
+}
+
+#total {
+    border-color: red;
+    color: red;
+}
+
+#new {
+    border-color: blue;
+    color: blue;
+}
+
+#active {
+    border-color: blue;
+    color: blue;
+}
+
+#deaths {
+    border-color: olive;
+    color: olive;
+}
+
+#recovered {
+    border-color: green;
+    color: green;
+}
+
+#update {
+    color: white;
+}
+
+#districts {
+    border-color: grey;
+    color: grey;
+}
+
+table {
+    padding: 50px;
+}
